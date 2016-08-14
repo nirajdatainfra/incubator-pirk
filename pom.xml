@@ -17,7 +17,7 @@
 
 	<groupId>org.apache.pirk</groupId>
 	<artifactId>apache-pirk</artifactId>
-	<version>0.1.1-incubating-SNAPSHOT</version>
+	<version>0.0.1-Snapshot</version>
 	<packaging>jar</packaging>
 
 	<name>Apache Pirk (incubating) Project</name>
